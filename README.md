@@ -1,4 +1,4 @@
-<img src=""></img>
+<!-- <img src=""></img> -->
 <br>
   👋 Ola pessoal me chamo Marcos Alexandre, 🌱 sou recem formado em Gestão da Tecnologia da informação na FATEC Campinas, 👀 estou interessado em melhorar meu aprendizado com programação fazendo projetos e estudando a fundo linguagens diferenters a cada dia
   📫 Para poder falar comigo pode usar um dos links abaixo das minhas redes sociais 
