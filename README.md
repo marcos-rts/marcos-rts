@@ -1,4 +1,7 @@
 <!-- <img src=""></img> -->
+
+  ## Ola sou o Marcos Alexandre, e bem vindo ao meu cantinho do GitHub
+<!---
 <br>
   👋 Ola pessoal me chamo Marcos Alexandre, 🌱 sou recem formado em Gestão da Tecnologia da informação na FATEC Campinas, 👀 estou interessado em melhorar meu aprendizado com programação fazendo projetos e estudando a fundo linguagens diferenters a cada dia
   📫 Para poder falar comigo pode usar um dos links abaixo das minhas redes sociais 
@@ -11,7 +14,7 @@
   
   👋 Hello everyone, my name is Marcos Alexandre, 🌱 I'm a recent graduate in Information Technology Management at FATEC Campinas, 👀 I'm interested in improving my programming learning by doing projects and studying different languages ​​in depth every day
   📫 To be able to talk to me, you can use one of the links below on my social networks
-
+--->
 <!---
 alexandre824/alexandre824 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
