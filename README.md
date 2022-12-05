@@ -19,16 +19,17 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=betafontes&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Roberta Fontes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betafontes&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <div width="49%" height="195px"> 
+    ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=alexandre824)
+  </div>
+  <div width="41%" height="195px">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre824&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 </div>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=alexandre824)
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre824&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre824&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
