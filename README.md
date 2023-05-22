@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcos-rts&show_icons=true&count_private=true&hide_border=true&title_color=ECF0F1&icon_color=ECF0F1&text_color=3498DB&bg_color=0d111" alt="Marcos Alexandre Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcos-rts&show_icons=true&count_private=true&hide_border=true&title_color=ECF0F1&icon_color=ECF0F1&text_color=3498DB&bg_color=0d1111" alt="Marcos Alexandre Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-rts&layout=compact&hide_border=true&title_color=ECF0F1&text_color=3498DB&bg_color=0d1111"/>
 </div>
 
