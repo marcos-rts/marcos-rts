@@ -2,7 +2,7 @@
 
 ### Quem sou eu
 
-Ola! Meu nome é Marcos, sou formado em Gestão de TI pela Fatec-Campinas e um amante pela programação, com foco no back-end ebuscando ingressar na area da programação, aqui encontra meu projetos e estudos que faço ao longo do tempo
+Ola! Meu nome é Marcos, sou formado em Gestão de TI pela <a href="https://fateccampinas.com.br/site/">Fatec-Campinas</a> e um amante pela programação, com foco no back-end e buscando ingressar na area da programação, aqui encontra meu projetos e estudos que faço ao longo do tempo
 
 ### O que pode encontrar no meu Github
 
