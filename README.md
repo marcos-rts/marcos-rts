@@ -12,7 +12,8 @@ Ola! Meu nome é Marcos, sou formado em Gestão de TI pela <a href="https://fate
 
 ### Principais Linguagens em estudo:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) &nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white) &nbsp; ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) &nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white) &nbsp; ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white) &nbsp;
+![TS](https://img.shields.io/badge/typescript-%231572B6.svg?logo=typescript&logoColor=white)
 
 ### Linguagens e tecnologias que desejo aprender:
 
