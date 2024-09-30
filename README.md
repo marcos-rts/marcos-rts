@@ -20,6 +20,6 @@ Ola! Meu nome é Marcos, sou formado em Gestão de TI pela <a href="https://fate
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) &nbsp; ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-rts)](https://github.com/anuraghazra/github-readme-stats) -->  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-rts&hide=contribs,prs&show_icons=true&theme=radical) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-rts&hide=scss,sass,typescript,blade&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-rts&hide=contribs,prs&show_icons=true&theme=radical) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-rts&hide=scss,sass,javascript,blade&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcos-rts&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
