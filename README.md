@@ -30,18 +30,13 @@ class MarcosSantos {
 const dev = new MarcosSantos();
 console.log(dev.aboutMe());
 ```
+## 🧰 Tech Stack
 
-
-## 🛠️ Tech Stack
-### 🔧 **Linguagens**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-### 🚀 **Frameworks**  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-
-### 🗃️ **Banco de Dados**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
+| Linguagens       | Frameworks        | Bancos          | Cloud/Tools     |
+|------------------|-------------------|-----------------|-----------------|
+| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) |  |  |
 
 
 ## 📊 GitHub Analytics
