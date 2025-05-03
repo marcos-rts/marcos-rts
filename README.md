@@ -42,7 +42,7 @@ console.log(dev.aboutMe());
 ## 📊 GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-rts&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-rts&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-rts&layout=compact&theme=dracula&hide_border=true&langs_count=6&hide=Sass,CSS,Hack"/>
 </div>
 
 <div align="center">
