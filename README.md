@@ -2,7 +2,7 @@
 **`Backend Developer | Tech Enthusiast | Problem Solver`**  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Transformando+café+em+código;Soluções+eficientes+e+escaláveis;Aprendizado+contínuo+é+minha+meta" alt="Typing animation" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Transformando+caf%C3%A9+em+c%C3%B3digo+;Solu%C3%A7%C3%B5es+eficientes+e+escal%C3%A1veis;Aprendizado+continuo+%C3%A9+minha+meta" alt="Typing SVG" /></a>
 </div>
 
 ## Sobre mim
